@@ -20,7 +20,7 @@ public class PedidoController {
     }
     @DeleteMapping
     public String testDelete(){
-        return "testando post pedido";
+        return "testando delete pedido";
     }
     
 }

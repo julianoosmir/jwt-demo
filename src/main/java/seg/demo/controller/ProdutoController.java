@@ -20,6 +20,6 @@ public class ProdutoController {
     }
     @DeleteMapping
     public String testDelete(){
-        return "testando post produto";
+        return "testando delete produto";
     }
 }
